@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**PoiName1923/PoiName1923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎😎Zaauuuuuuuuu it my GitHub profile! I'm don't have any idea why you here but i glad for your presence.
 
-Here are some ideas to get you started:
+😂😂I interested in Software Engineer, althougt I'm in process to become Data Science
+## About Me
+- 🌱 I’m currently learning: University Of Science (HCMUS)
+- 💬 Ask me about: Valorant, Arena of Valor, TFT, League of legends, Pubg, ... or abou numerical linear algebra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- 🖥 Programming Languages: C++, C, Python, Java, Dart, R.
+- 🛠 Tools : Android Studio, Visual Studio Code, SQLServer
+- 🏭 Frameworks: Flutter, Pyspark
+## Featured Projects (i will update this...🙄🙄)
+- ... 
+
+## Connect with Me
+- Email: [nguyendinhtien23012004@gmail.com](nguyendinhtien23012004@gmail.com)
+- Phone: 0377765389
+- Facebook: [Nguyễn Đ.Tiến](https://www.facebook.com/poi.name)
