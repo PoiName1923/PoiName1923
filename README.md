@@ -1,7 +1,5 @@
-# 👋 Hello, I'm [Your Name]!
-
+# 👋 Hello, I'm NGuyễn Đình Tiến (or you can call me Poiname)
 😎😎Zaauuuuuuuuu it my GitHub profile! I'm don't have any idea why you here but i glad for your presence.
-
 😂😂I interested in Software Engineer, althougt I'm in process to become Data Science
 ## About Me
 - 🌱 I’m currently learning: University Of Science (HCMUS)
