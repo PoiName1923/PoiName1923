@@ -1,6 +1,6 @@
 # 👋 Hello, I'm NGuyễn Đình Tiến (or you can call me Poiname)
 😎😎Zaauuuuuuuuu it my GitHub profile! I'm don't have any idea why you here but i glad for your presence.
-😂😂I interested in Software Engineer, althougt I'm in process to become Data Science
+😂😂I interested in Data Engineer, althougt I'm in process to become Data Science
 ## About Me
 - 🌱 I’m currently learning: University Of Science (HCMUS)
 - 💬 Ask me about: Valorant, Arena of Valor, TFT, League of legends, Pubg, ... or abou numerical linear algebra.
